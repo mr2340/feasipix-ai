@@ -64,6 +64,24 @@ graph TD
     B --> G[PostgreSQL Database]
 ```
 
+## 📁 Project Structure
+
+```text
+feasipix-ai/
+├── components/       # UI Components & Feature Pages
+├── contexts/         # React Contexts (Auth, Theme)
+├── services/         # API & AI Service Integrations
+├── App.tsx           # Main Application Routing
+├── EditorPage.tsx    # Core Editor Workspace
+├── index.tsx         # Application Entry Point
+├── index.html        # Main HTML Template
+├── supabase_schema.sql # Database Table Definitions
+├── vite.config.ts    # Vite Build Configuration
+├── tsconfig.json     # TypeScript Configuration
+├── .env.example      # Environment Variable Template
+└── README.md         # Project Documentation
+```
+
 ## 🚀 Getting Started
 
 ### Prerequisites
