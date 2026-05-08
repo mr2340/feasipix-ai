@@ -1,0 +1,5 @@
+{
+  "name": "FeasiPix - AI Photo Editor original 4",
+  "description": "FeasiPix is an AI-powered photo editor that allows users to upload an image, provide text prompts to change backgrounds and clothing, while preserving the subject's face and skin tone.",
+  "requestFramePermissions": []
+}
