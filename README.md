@@ -79,6 +79,7 @@ feasipix-ai/
 ├── vite.config.ts    # Vite Build Configuration
 ├── tsconfig.json     # TypeScript Configuration
 ├── .env.example      # Environment Variable Template
+├── LICENSE           # MIT License
 └── README.md         # Project Documentation
 ```
 
